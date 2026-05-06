@@ -1,0 +1,63 @@
+p {
+	color:  #ff0000;
+    text-decoration: overline;
+}
+h1 {
+    color: rgb(255, 230, 8);
+    text-decoration: none;
+}
+h2 {
+    color: orange;
+    text-decoration: line-through;
+}
+h3 {
+    color: rgb(255, 236, 114);
+}
+th {
+	text-align: left;
+}
+
+table {
+	width: 500px;
+}
+p {
+	text-align: center;
+    p {
+	font-weight: bold;
+    text-decoration: overline;
+    font-family: Arial;
+}
+}
+p2 {
+	color:  #ff0000;
+	font-weight: normal;
+    font-style: italic;
+    line-height: 1,5px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+h5 {
+	text-align: justify;
+	width: 400px; 
+	font-weight: bold;
+    line-height: 1,5px;
+    font-family: "Comic Sans MS";
+}
+h6 {
+    text-align: right;
+    width: 300px;
+	font-weight: bold;
+    font-family: Arial;
+}
+.huhu {
+    text-align: center;
+    width: 400; 
+	font-weight: bold;
+    line-height: 1,5px;
+    font-family: Arial;
+}
+td {
+    text-align: center;
+	font-weight: bold;
+    font-family: "Comic Sans MS";
+}
